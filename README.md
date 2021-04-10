@@ -3,6 +3,7 @@
 
 ## Steps to run
 
+Create .env file renaming the env.example file to .env
 
 Change the following lines in.env configuration file:
 
