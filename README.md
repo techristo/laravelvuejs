@@ -17,7 +17,9 @@ Install sqlite in your computer.
 Install the dependencies:
 ---------------------------------------------------------------
 npm install
+
 composer install
+
 composer update
 
 --------------------------------------------------------
